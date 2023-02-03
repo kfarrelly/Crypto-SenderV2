@@ -24,7 +24,7 @@ V2 add features:<br>
 Send addresses once:<br>
 1-500<br>
 
-<img src="https://github.com/kfarrelly/Crypto-SenderV2/main/screen.png" alt="erc20-tokens-multi-sender">
+<img src="https://github.com/kfarrelly/Crypto-SenderV2/screen.png" alt="erc20-tokens-multi-sender">
 
 Site1:
 https://kfarrelly.github.io/Crypto-SenderV2/
