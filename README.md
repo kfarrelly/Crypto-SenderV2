@@ -27,7 +27,7 @@ Send addresses once:<br>
 <img src="https://github.com/kfarrelly/Crypto-Sender/blob/main/screen.png" alt="erc20-tokens-multi-sender">
 
 Site1:
-https://kfarrelly.github.io/Crypto-Sender/
+https://kfarrelly.github.io/Crypto-SenderV2/
 
 
 # Need Earn cryptocurrency?
@@ -36,7 +36,7 @@ Change the address to your own address,customize fee you will recieve.<br>
 
 
 # Deploy to github page
-https://kfarrelly.github.io/Crypto-Sender/<br>
+https://kfarrelly.github.io/Crypto-SenderV2/<br>
 
 or you can download source ,and put to any web server.then start earn cryptocurrency!<br>
 
